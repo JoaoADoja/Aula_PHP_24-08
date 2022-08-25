@@ -1,0 +1,3 @@
+[2022-08-25T02:58:58.416358+02:00] nomedocanal.INFO: Este é uma string da info [] []
+[2022-08-25T02:58:58.417645+02:00] nomedocanal.WARNING: Isto é um warning ... [] []
+[2022-08-25T02:58:58.417692+02:00] nomedocanal.ERROR: Esta é uma mensagem de erro [] []
